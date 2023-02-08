@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-    <div>
+    <div classname = 'bg-[#1A232E] h-screen py-6 relative sm:px-28'> 
 
       <div>header</div>
       
