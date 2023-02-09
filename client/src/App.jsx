@@ -14,7 +14,9 @@ function App() {
       </div>
 
 
-      <div>body</div>
+      <div>
+        <ChatBody/>
+      </div>
 
 
 
