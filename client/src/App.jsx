@@ -12,7 +12,6 @@ function App() {
       <div className="upppercase font-bold text-2xl text-center mb-3">
         ChatGpt 2.0
       </div>
-      
 
 
       <div>body</div>
