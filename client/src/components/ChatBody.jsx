@@ -14,7 +14,7 @@ return(
         {/* ai Measage */}
     <div>
         <pre>
-            <span>Hey ChatGPT, Can you help me?</span>
+            <span>Hey ChatGPT, Can you help me??</span>
         </pre>
     </div>
 
