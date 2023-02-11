@@ -12,7 +12,7 @@ return(
     </div>
 
         {/* ai Measage */}
-    <div>
+    <div className="border-[#999999] break-words border-2 rounded-xl self-end px-3 py-3 max-w-[80%]">
         <pre>
             <span>Hey ChatGPT, Can you help me??</span>
         </pre>
