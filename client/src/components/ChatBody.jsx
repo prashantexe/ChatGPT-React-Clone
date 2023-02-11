@@ -2,6 +2,8 @@ import React from 'react'
 
 const ChatBody = () => {
 
+    const aiStyle = "bg-white bg-opacity"
+
 return(
     <div className="flex flex-col gap-4">
     {/* client Measage */}
