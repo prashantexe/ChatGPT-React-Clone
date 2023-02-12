@@ -1,4 +1,4 @@
-import './App.css'
+import ChatBody from "client/src/components/ChatBody.jsx";
 
 function App() {
 
